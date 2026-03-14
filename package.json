@@ -96,12 +96,12 @@
       {
         "command": "auto-save-toggler.toggleAutoSaveOn",
         "title": "Turn Auto Save On",
-        "icon": "$(circle-large-filled)"
+        "icon": "$(circle-large-outline)"
       },
       {
         "command": "auto-save-toggler.toggleAutoSaveOff",
         "title": "Turn Auto Save Off",
-        "icon": "$(circle-large-outline)"
+        "icon": "$(circle-large-filled)"
       }
     ],
     "menus": {
